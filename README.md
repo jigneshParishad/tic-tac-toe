@@ -86,4 +86,4 @@ In this zero-sum game:
 
 ## 🔗 GitHub Link
 
-[https://github.com/your-username/tic-tac-toe-minimax](https://github.com/your-username/tic-tac-toe-minimax)
+(https://github.com/jigneshParishad/tic-tac-toe.git))
